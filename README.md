@@ -66,16 +66,16 @@ The system authorizes.
 
 | ID | Risk | What it means | Page |
 |---|---|---|---|
-| ASI-01 | Agent Goal Hijack | Untrusted input changes what the agent is trying to accomplish. | [03 ASI-01](03-ASI-01-Agent-Goal-Hijack) |
-| ASI-02 | Tool Misuse | The agent uses a legitimate tool in a way that was not intended. | [04 ASI-02/03](04-ASI-02-03-Tool-Misuse-and-Credential-Abuse) |
-| ASI-03 | Identity and Privilege Abuse | The agent uses a valid credential with too much access. | [04 ASI-02/03](04-ASI-02-03-Tool-Misuse-and-Credential-Abuse) |
-| ASI-04 | Agentic Supply Chain Vulnerabilities | Third-party tools, prompts, MCP servers, or metadata change behavior. | [06 ASI-04/05](06-ASI-04-05-Supply-Chain-and-Code-Execution) |
-| ASI-05 | Unexpected Code Execution | Untrusted text leads to dangerous command or code execution. | [06 ASI-04/05](06-ASI-04-05-Supply-Chain-and-Code-Execution) |
-| ASI-06 | Memory and Context Poisoning | Bad information is saved and reused in future sessions. | [07 ASI-06/07](07-ASI-06-07-Memory-Poisoning-and-Inter-Agent-Trust) |
-| ASI-07 | Insecure Inter-Agent Communication | One agent sends unsafe or unverified instructions to another agent. | [07 ASI-06/07](07-ASI-06-07-Memory-Poisoning-and-Inter-Agent-Trust) |
-| ASI-08 | Cascading Failures | A small failure spreads and amplifies across agents and systems. | [08 ASI-08](08-ASI-08-Cascading-Failures) |
-| ASI-09 | Human-Agent Trust Exploitation | A human approves an action based on misleading agent explanation. | [09 ASI-09/10](09-ASI-09-10-Trust-Exploitation-and-Rogue-Agents) |
-| ASI-10 | Rogue Agents | An agent behaves outside its intended boundaries or authorized scope. | [09 ASI-09/10](09-ASI-09-10-Trust-Exploitation-and-Rogue-Agents) |
+| ASI-01 | Agent Goal Hijack | Untrusted input changes what the agent is trying to accomplish. | [03 ASI-01](https://github.com/alishahbaz/Agentic-Applications-Security/wiki03-ASI-01-Agent-Goal-Hijack) |
+| ASI-02 | Tool Misuse | The agent uses a legitimate tool in a way that was not intended. | [04 ASI-02/03](https://github.com/alishahbaz/Agentic-Applications-Security/wiki04-ASI-02-03-Tool-Misuse-and-Credential-Abuse) |
+| ASI-03 | Identity and Privilege Abuse | The agent uses a valid credential with too much access. | [04 ASI-02/03](https://github.com/alishahbaz/Agentic-Applications-Security/wiki04-ASI-02-03-Tool-Misuse-and-Credential-Abuse) |
+| ASI-04 | Agentic Supply Chain Vulnerabilities | Third-party tools, prompts, MCP servers, or metadata change behavior. | [06 ASI-04/05](https://github.com/alishahbaz/Agentic-Applications-Security/wiki06-ASI-04-05-Supply-Chain-and-Code-Execution) |
+| ASI-05 | Unexpected Code Execution | Untrusted text leads to dangerous command or code execution. | [06 ASI-04/05](https://github.com/alishahbaz/Agentic-Applications-Security/wiki06-ASI-04-05-Supply-Chain-and-Code-Execution) |
+| ASI-06 | Memory and Context Poisoning | Bad information is saved and reused in future sessions. | [07 ASI-06/07](https://github.com/alishahbaz/Agentic-Applications-Security/wiki07-ASI-06-07-Memory-Poisoning-and-Inter-Agent-Trust) |
+| ASI-07 | Insecure Inter-Agent Communication | One agent sends unsafe or unverified instructions to another agent. | [07 ASI-06/07](https://github.com/alishahbaz/Agentic-Applications-Security/wiki07-ASI-06-07-Memory-Poisoning-and-Inter-Agent-Trust) |
+| ASI-08 | Cascading Failures | A small failure spreads and amplifies across agents and systems. | [08 ASI-08](https://github.com/alishahbaz/Agentic-Applications-Security/wiki08-ASI-08-Cascading-Failures) |
+| ASI-09 | Human-Agent Trust Exploitation | A human approves an action based on misleading agent explanation. | [09 ASI-09/10](https://github.com/alishahbaz/Agentic-Applications-Security/wiki09-ASI-09-10-Trust-Exploitation-and-Rogue-Agents) |
+| ASI-10 | Rogue Agents | An agent behaves outside its intended boundaries or authorized scope. | [09 ASI-09/10](https://github.com/alishahbaz/Agentic-Applications-Security/wiki09-ASI-09-10-Trust-Exploitation-and-Rogue-Agents) |
 
 ---
 
@@ -85,4 +85,4 @@ A coding agent had a valid credential and enough access to delete production, ev
 
 That is the starting point.
 
-[Continue to PocketOS Incident](01-PocketOS-Incident)
+[Continue to PocketOS Incident]([01-PocketOS-Incident](https://github.com/alishahbaz/Agentic-Applications-Security/wiki)

@@ -85,4 +85,4 @@ A coding agent had a valid credential and enough access to delete production, ev
 
 That is the starting point.
 
-[Continue to PocketOS Incident]([01-PocketOS-Incident](https://github.com/alishahbaz/Agentic-Applications-Security/wiki)
+[Continue to Home]((https://github.com/alishahbaz/Agentic-Applications-Security/wiki)
